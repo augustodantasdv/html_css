@@ -1,5 +1,6 @@
-HTML e CSS
-Desafios HTML5 e CSS3 do Curos em Video
+<h2>
+    Desafios HTML5 e CSS3 do Curos em Video
+</h2>
 
 <h3>Projeto Android</h3>
 <a href="https://augustodantasdv.github.io/html_css/projeto-android/android.html" target="_blank">https://augustodantasdv.github.io/html_css/projeto-android/android.html</a>
