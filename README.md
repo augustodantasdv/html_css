@@ -1,5 +1,5 @@
 <h2>
-    Desafios HTML5 e CSS3 do Curos em Video
+    Desafios HTML e CSS do Curso em Video
 </h2>
 
 <h3>Projeto Android</h3>
